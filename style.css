@@ -1,0 +1,55 @@
+h1{
+    color:cyan;
+    height: 20px;
+    font-size: xx-large;
+    font-weight: 700;
+    background-color: azure;
+    font-style: oblique;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: aquamarine;
+    height: fit-content;
+    letter-spacing: 1px;
+    font-size: large;
+    text-align: center;
+    padding: 0cqi;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-image: url(2020-mustang-shelby-gt500-road-179-1600363945.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+button{
+    width: 150px;
+    height: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: aqua;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 560px;
+    margin-right: 80px;
+    cursor: pointer;
+    
+}
+button:hover{
+    width: 150px;
+    height: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: yellowgreen;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 560px;
+    margin-right: 80px;
+    cursor: pointer;
+}
